@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #222;
 }
 
 header {
-    background-color: #333;
+    background-color: #94070A;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -46,8 +46,8 @@ section {
 }
 
 section h2 {
-    color: #333;
-    border-bottom: 2px solid #333;
+    color: #222;
+    border-bottom: 2px solid #94070A;
     padding-bottom: 10px;
 }
 
@@ -59,18 +59,18 @@ section p {
     display: inline-block;
     margin-top: -5px;
     padding: 10px 15px;
-    background-color: #333;
+    background-color: #94070A;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
 }
 
 .course-link:hover {
-    background-color: #555;
+    background-color: #c58089;
 }
 
 footer {
-    background-color: #333;
+    background-color: #94070A;
     color: #fff;
     text-align: center;
     padding: 10px;
